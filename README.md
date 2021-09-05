@@ -6,4 +6,4 @@ We can perform all the arithmetic operations on a given cryptarithmetic problem.
 This a simple code in C to solve a given cryptarithmetic problem.
 
 Enter the query in this format->
-X + y == z
+x + y == z
